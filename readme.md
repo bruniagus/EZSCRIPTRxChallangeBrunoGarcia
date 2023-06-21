@@ -1,4 +1,4 @@
-Proyecto credo con Docker , Php 8.2 Y Laravel 10 
+
 Para iniciar se debe inicializar con 
 ```
 docker-compose up
